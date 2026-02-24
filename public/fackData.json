@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Pasta", "img": "https://tinyurl.com/pasta-img", "price": "$12"},
+  {"id": 2, "name": "Burger", "img": "https://tinyurl.com/burger-img", "price": "$10"},
+  {"id": 3, "name": "Pizza", "img": "https://tinyurl.com/pizza-img", "price": "$15"}
+]
