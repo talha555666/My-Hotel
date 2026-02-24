@@ -4,7 +4,7 @@ function Recipes() {
   const data = useLoaderData();
 
   return (
-    <div className="max-w-7xl mx-auto bg-slate-200 px-3 sm:px-4 md:px-6 lg:px-8 py-6 sm:py-8 lg:py-10">
+    <div className="max-w-7xl mx-auto bg-slate-200 px-3 m-5 sm:px-4 md:px-6 lg:px-8 py-6 sm:py-8 lg:py-10">
       <h3 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl text-purple-400 text-center mb-4 sm:mb-6 lg:mb-8">
         Our Special Recipes
       </h3>
